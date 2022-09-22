@@ -13,10 +13,7 @@ public void m2()
 System.out.println(" hello m2 method ");
 }
 
-public void m3()
-{
-System.out.println(" hello m3 method ");
-}
+
 
 public void sum()
 {
@@ -37,7 +34,7 @@ Demo a=new Demo();
 
 a.m1();
 a.m2();
-a.m3();
+
 a.sum();
 a.mul();
 
